@@ -1,4 +1,4 @@
-# 
+# 终极 Shotcut 扩展 Mac OS版 | 即时 Shotcut 扩展 PC Windows版。集成 调色 和 形状图层，跨平台性能最大化。
 
 
 
